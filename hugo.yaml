@@ -24,13 +24,13 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
+    - name: Contacts
       url: "https://aleksmi.github.io/portfolio/"
       weight: 3
-    #- name: Search
-      #weight: 4
-      #params:
-        #type: search
+    - name: Search
+      weight: 4
+      params:
+        type: search
     - name: GitHub
       weight: 5
       url: "https://github.com/AleksMi"
