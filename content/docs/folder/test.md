@@ -1,5 +1,5 @@
 ---
-title: Leaf Page
+title: Test
 type: docs
 prev: docs/folder/
 ---
