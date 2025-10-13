@@ -1,3 +1,10 @@
+---
+title: manual MD
+type: docs
+prev: docs/folder/
+---
+
+
 Шпаргалка по Markdown
 ---------------------
 ([https://github.com/sandino/Markdown-Cheatsheet](https://github.com/sandino/Markdown-Cheatsheet))
